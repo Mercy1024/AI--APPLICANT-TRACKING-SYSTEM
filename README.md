@@ -57,9 +57,7 @@ Visit [http://localhost:5173](http://localhost:5173) to access the app.
 
 ---
 
-## 📦 Assets
 
-All assets, demo files, and snippets can be found in the [Video Kit](https://jsm.dev/resumind-kit).
 
 ---
 
